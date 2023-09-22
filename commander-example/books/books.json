@@ -5,14 +5,9 @@
     "author": "Marijn Haverbeke"
   },
   {
-    "id": "YxhM4QDxPeA3SmPHcEZPJ",
+    "id": "2",
     "title": "Practical Modern JavaScript",
     "author": "Nicolas Bevacqua"
-  },
-  {
-    "id": "zCd_RioNMOBaQwAXnc8Px",
-    "title": "Understanding ECMAScript 6",
-    "author": "Nicholas C. Zakas"
   },
   {
     "id": "ck89qe3HriUDHe09TBoJ8",
@@ -38,5 +33,10 @@
     "id": "CTHE0f1kkWwqS5sL2tI8_",
     "title": "Rethinking Productivity in Software Engineering",
     "author": "Caitlin Sadowski, Thomas Zimmermann"
+  },
+  {
+    "id": "MowDgEQYc07JW65nS_p9b",
+    "title": "You Know JS",
+    "author": "John Simpson"
   }
 ]
